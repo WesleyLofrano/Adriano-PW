@@ -1,37 +1,37 @@
-            @import url('https://fonts.googleapis.com/css?family=Merienda&display=swap');
-        .text-title {
-            font-family: 'Merienda', cursive;
-            font-size: 8em;
-        }
-        
-        .text-title2 {
-            font-family: 'Merienda', cursive;
-            font-size: 2em;
-        }
-        
-        .bg-title {
-            /*background-image: linear-gradient(to bottom right, #0d2033, #103e6d, #789ec4);*/
-            background: url('../Pedreiro.jpg');
-            background-size: cover;
-            background-position-x: center;
-            background-position-y: center;
-        }
-        
-        .btn-Wesley {
-            color: #fff;
-            background-color: #FF0000;
-            border-color: #FF0000;
-        }
-        
-        .btn-Wesley:hover {
-            color: #fff;
-            background-color: #800000;
-            border-color: #8B0000;
-        }
-        
-        .btn-Wesley:focus,
-        .btn-Wesley.focus {
-            color: #fff;
-            background-color: #0069d9;
-            border-color: #0062cc;
-            box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, 0.5);
+                @import url('https://fonts.googleapis.com/css?family=Merienda&display=swap');
+            .text-title {
+                font-family: 'Merienda', cursive;
+                font-size: 8em;
+            }
+            
+            .text-title2 {
+                font-family: 'Merienda', cursive;
+                font-size: 2em;
+            }
+            
+            .bg-title {
+                /*background-image: linear-gradient(to bottom right, #0d2033, #103e6d, #789ec4);*/
+                background: url('../Pedreiro.jpg');
+                background-size: cover;
+                background-position-x: center;
+                background-position-y: center;
+            }
+            
+            .btn-Wesley {
+                color: #fff;
+                background-color: #FF0000;
+                border-color: #FF0000;
+            }
+            
+            .btn-Wesley:hover {
+                color: #fff;
+                background-color: #800000;
+                border-color: #8B0000;
+            }
+            
+            .btn-Wesley:focus,
+            .btn-Wesley.focus {
+                color: #fff;
+                background-color: #0069d9;
+                border-color: #0062cc;
+                box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, 0.5);
