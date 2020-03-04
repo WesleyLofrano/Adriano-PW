@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Merienda&display=swap');
+.text-title {
+    font-family: 'Merienda', cursive;
+    font-size: 8em;
+}
+
+.text-title2 {
+    font-family: 'Merienda', cursive;
+    font-size: 2em;
+}
+
+.bg-title {
+    /*background-image: linear-gradient(to bottom right, #0d2033, #103e6d, #789ec4);*/
+    background: url('../Pedreiro.jpg');
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: center;
+}
