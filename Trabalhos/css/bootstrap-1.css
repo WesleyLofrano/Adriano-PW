@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Odibee+Sans|Playfair+Display&display=swap');
+.text-title {
+    font-family: 'Odibee Sans', cursive;
+    font-family: 'Playfair Display', serif;
+    font-size: 10em
+}
+
+.text-little2 {
+    font-size: 2em
+}
+
+.bg-little {
+    background-image: linear-gradient(to bottom right, rgb(0, 174, 255), #bbff00)
+}
